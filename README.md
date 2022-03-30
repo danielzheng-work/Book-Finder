@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- Book finder anim to help user to find desired books in Amazon store more quickly bases on the book review data. 
+ Book finder aims to help user to find desired books in Amazon store more quickly bases on the book review data. 
 </p>
 
 <div align="center">
